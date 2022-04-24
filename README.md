@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tevfik</h1>
-<h3 align="center">An inquisitive web developer and programmer from Turkey</h3>
+<h3 align="center">An inquisitive Full-stack Web Developer and programmer from Turkey. I'm passionate about Game programming and design too!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tevfikkk&label=Profile%20views&color=0e75b6&style=flat" alt="tevfikkk" /> </p>
 

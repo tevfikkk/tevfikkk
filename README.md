@@ -1,6 +1,6 @@
 <h1 align="center">Greetings! I'm Tevfik! 🐊</h1>
 <h3 align="center">Fullstack Web Developer</h3>
-<h3 align="center">Functional Programming</h3>
+<h3 align="center">I'm currently learning Nodejs Prisma</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tevfikkk&label=Profile%20views&color=0e75b6&style=flat" alt="tevfikkk" /> </p>
 

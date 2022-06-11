@@ -1,10 +1,9 @@
 
 # About me
-
-I'm Tevfik. 23 years old.
-Backend Developer
-I'm mainly a Nodejs and SQL (Prisma) Developer
-I'm also learning Unity
+<p>I'm Tevfik. 23 years old.</p>
+<p>Backend Developer</p>
+<p>I'm mainly a Nodejs and SQL (Prisma) Developer</p>
+<p>I'm also learning Unity </p>
 
 ##  Languages and Tools I use
 

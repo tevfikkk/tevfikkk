@@ -2,7 +2,7 @@
 # About me
 <div>
   <ul>
-    <li>I'm Tevfik. 23 years old.</li>
+    <li>I'm Tevfik. 23 years old</li>
     <li>Backend Developer</li>
     <li>I'm mainly a Nodejs and SQL (Prisma) Developer</li>
     <li>Unity is on the way</li>

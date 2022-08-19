@@ -3,11 +3,13 @@
 <div>
   <ul>
     <li>I'm Tevfik. 23 years old</li>
-    <li>I'm currently Learning Unity</li>
+    <li>I'm currently learning Unity</li>
   </ul>
 </div>
 
 ##  Languages and Tools I use
+
+<p align="left">
 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 

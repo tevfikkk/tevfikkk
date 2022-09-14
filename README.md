@@ -2,8 +2,9 @@
 # About me
 <div>
   <ul>
-    <li>I'm Tevfik. 23 years old</li>
-    <li>I'm currently learning Unity</li>
+    <li>I'm Tevfik. 23 Level</li>
+    <li>Currently learning Unity and advancing on C#</li>
+    <li>Classic game enthusiast</li>
   </ul>
 </div>
 

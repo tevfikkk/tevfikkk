@@ -2,9 +2,8 @@
 # About me
 <div>
   <ul>
-    <li>I'm Tevfik. 24 Level</li>
-    <li>Currently learning Unity and advancing on C#</li>
-    <li>Classic game enthusiast</li>
+    <li>I'm Tevfik.</li>
+    <li>Currently learning reactjs</li>
   </ul>
 </div>
 

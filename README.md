@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>I'm Tevfik.</li>
-    <li>Currently learning Nodejs and express</li>
+    <li>Currently doing absolutely nothing</li>
   </ul>
 </div>
 

@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/tevfikkk/tevfikkk/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/tevfikkk/tevfikkk/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 

@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Tevfik and I'm a Backend Developer and Game Developer, majoring Computer Engineering, from Turkey</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -53,13 +53,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://github.com/tevfikkk/tevfikkk/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/tevfikkk/tevfikkk/output/snake.svg" alt="Snake animation" />
 
 ###
 

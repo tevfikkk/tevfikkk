@@ -4,4 +4,6 @@ Languages:
 <ul>
   <li>Go</li>
   <li>Typescript</li>
+  <li>C#</li>
+  <li>Python</li>
 </ul>
